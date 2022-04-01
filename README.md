@@ -5,7 +5,7 @@ This example shows we learned to do a small amount of manipulation within the pl
 
 Start up intellij within the frontend folder:
 
-click the run button
+click the run button (green arrow)
 
 And open <http://localhost:9001/>
 
