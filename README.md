@@ -9,6 +9,6 @@ click the run button (green arrow)
 
 And open <http://localhost:9001/>
 
-within the search bar function, type in a word and upon clicking 'search', your word will be displayed back to you
+within the search bar function, type in a word and upon clicking 'enter', your word will be displayed back to you
 
 the search can be easily reset by clicking the 'reset' button
